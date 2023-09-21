@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ButtonStyle" parent="@style/Widget.AppCompat.Button">
+        <item name="android:textColor">@color/straw</item>
+        <item name="android:shadowColor">@color/persian_orange</item>
+        <item name="android:shadowDx">5</item>
+        <item name="android:shadowDy">5</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:background">@drawable/button_shape_capsule</item>
+    </style>
+
+    <style name="QuizDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="shapeAppearanceOverlay">@color/straw</item>
+
+
+
+
+    </style>
+
+
+</resources>

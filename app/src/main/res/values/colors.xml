@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000500</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="uranian_blue">#B7E2FD</color>
+    <color name="true_blue">#4C6D96</color>
+    <color name="straw">#E0E276</color>
+    <color name="persian_orange">#DE8457</color>
+    <color name="background_black">#121212</color>
+    <color name="yinmn_blue">#3C5777</color>
+    <color name="licorice">#110B11</color>
+    <color name="office_green">#42A54A</color>
+    <color name="cornell_red">#EA2A47</color>
+</resources>
